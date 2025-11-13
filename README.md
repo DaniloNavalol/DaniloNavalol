@@ -6,7 +6,8 @@ My name is Danilo! I'm a Computer Engineering student at UFMA. Passionate about 
 ✨ Creating bugs since my first "Hello, World!" program  
 📚 I'm currently learning more about game engines like Unity  
 🎯 Goals: To develop my own indie games and share them with the world  
-🎮 Love creating interactive experiences and solving complex problems
+🎮 Love creating interactive experiences and solving complex problems  
+🦦 Professional capybara in a beret (don't ask about the photo)
 
 ## I code with
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=#9B4D96)
@@ -33,10 +34,6 @@ My name is Danilo! I'm a Computer Engineering student at UFMA. Passionate about 
 
 ---
 
-<div align="center">
-
-`⚡ CYBERPUNK MODE ACTIVATED ⚡`
-
-</div>
+> **Fun fact:** My profile pic isn't just a capybara in a beret - it's actually me after 48 hours debugging Unity scripts! 🦦👨💻
 
 ⭐ **From** [DaniloNavalol](https://github.com/DaniloNavalol)
