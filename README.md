@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou Danilo Navalhas!
 
-<!--
-**DaniloNavalol/DaniloNavalol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação na UFMA  
+📍 São Luís, MA  
+🎮 Game Developer & FullStack Enthusiast  
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```typescript
+const danilo = {
+  code: ["JavaScript", "TypeScript", "C#", "Python", "Java"],
+  tools: ["React", "Node.js", "Unity", "Git", "Docker"],
+  interests: ["Game Development", "Web Development", "AI", "Open Source"],
+  currentlyLearning: "Advanced Unity & Three.js",
+  funFact: "Apaixonado por criar jogos e soluções criativas"
+};
