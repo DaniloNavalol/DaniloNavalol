@@ -1,61 +1,68 @@
-Hey 👋 What's up? / E aí, beleza?
+# Hey 👋 I'm Danilo Nava
 
-My name is Danilo! I'm a Computer Engineering student at UFMA. Passionate about game development and programming. Always learning and growing.  
-Meu nome é Danilo! Sou estudante de Engenharia da Computação na UFMA. Apaixonado por desenvolvimento de jogos e programação. Sempre aprendendo e evoluindo.
+**Computer Engineering student @ UFMA** · Game Developer · Full Stack
 
-## 💫 About me / Sobre mim
+---
 
-✨ **Creating bugs since my first "Hello, World!" program**  
-✨ **Criando bugs desde meu primeiro programa "Hello, World!"**
+## 💫 About me
 
-📚 **I'm currently learning more about game engines like Unity**  
-📚 **Atualmente aprendendo mais sobre engines de jogos como Unity**
+- 🎮 Building interactive experiences with **Unity & C#**
+- 📚 Currently deep-diving into game engines and indie dev workflows
+- 🎯 Goal: ship my own indie games and share them on itch.io
+- 🦦 Professional capybara in a beret (don't ask about the photo)
 
-🎯 **Goals: To develop my own indie games and share them with the world**  
-🎯 **Objetivos: Desenvolver meus próprios jogos indie e compartilhá-los com o mundo**
+---
 
-🎮 **Love creating interactive experiences and solving complex problems**  
-🎮 **Amo criar experiências interativas e resolver problemas complexos**
+## 🛠️ Tech stack
 
-🦦 **Professional capybara in a beret (don't ask about the photo)**  
-🦦 **Capivara profissional de boina (não pergunte sobre a foto)**
+### Game Dev
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=9B4D96)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=9B4D96)
 
-## 🛠️ I code with / Trabalho com
+### Web & Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=9B4D96)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=9B4D96)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=9B4D96)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=9B4D96)
 
-<div align="center">
+---
 
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=#9B4D96)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=#9B4D96)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=#9B4D96)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=#9B4D96)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=#9B4D96)
+## 🚀 Featured projects
 
-</div>
+| Project | Description | Tech |
+|---------|-------------|------|
+| **MatchJobs** | Recruitment platform with AI-powered semantic candidate matching | Python · PostgreSQL · pgvector |
+| **PDV System** | Point-of-sale system with inventory control, cash flow & chatbot automation | Python · JS · REST APIs |
 
-## 📊 My Stats / Minhas Estatísticas
+---
+
+## 📊 Stats
 
 <div align="center">
 
 ![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniloNavalol&show_icons=true&title_color=9B4D96&icon_color=9B4D96&text_color=ffffff&bg_color=000000&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloNavalol&layout=compact&title_color=9B4D96&text_color=ffffff&bg_color=000000&hide_border=true)
 
 </div>
 
-## 🎮 My Games / Meus Jogos
+---
+
+## 🎮 My games
 
 <div align="center">
 
-[![Itch.io](https://img.shields.io/badge/Itch.io-000000?style=for-the-badge&logo=itch.io&logoColor=#9B4D96)](https://claymoreh.itch.io)
+[![Itch.io](https://img.shields.io/badge/Play_my_games-000000?style=for-the-badge&logo=itch.io&logoColor=9B4D96)](https://claymoreh.itch.io)
 
 </div>
 
-## 📫 Contact / Contato
+---
+
+## 📫 Contact
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=#9B4D96)](mailto:danilo.vlwflw@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=#9B4D96)](https://www.linkedin.com/in/danilo-nava-3a716832a/)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=9B4D96)](mailto:danilo.vlwflw@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=9B4D96)](https://www.linkedin.com/in/danilo-nava-3a716832a/)
 
 </div>
 
@@ -63,13 +70,6 @@ Meu nome é Danilo! Sou estudante de Engenharia da Computação na UFMA. Apaixon
 
 <div align="center">
 
-> **Fun fact:** My profile pic isn't just a capybara in a beret - it's actually me after 48 hours debugging Unity scripts! 🦦👨💻  
-> **Curiosidade:** Minha foto de perfil não é só uma capivara de boina - na verdade sou eu depois de 48 horas debugando scripts do Unity! 🦦👨💻
-
-</div>
-
-<div align="center">
-
-⭐ **From / De** [DaniloNavalol](https://github.com/DaniloNavalol)
+> 🦦 Profile pic is a capybara in a beret — that's actually me after 48h debugging Unity scripts.
 
 </div>
